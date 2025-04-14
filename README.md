@@ -37,7 +37,7 @@ cd try-devnet/packages/contract/
 bash script/deploy.sh
 ```
 
-*** A new wallet will be generated for you, copy it and head over to the link below, enter wallet address and claim test token**
+**A new wallet will be generated for you, copy it and head over to the link below, enter wallet address and claim test token**
 - Visit: https://faucet-2.seismicdev.net/
 
 
